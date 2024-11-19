@@ -61,3 +61,9 @@ Program ini melakukan iterasi melalui setiap dictionary dalam list data_nilai da
 # berikut code programnya
 
 ![foto](
+
+![foto](
+
+# berikut hasil code programnya
+![foto](
+
