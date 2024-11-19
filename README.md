@@ -10,7 +10,7 @@ Mata kuliah: Bahasa Pemograman
 
 # Berikut Flowchartnya
 
-![foto](
+![foto](https://github.com/keeyyaaa/labpy04/blob/main/flowchart.png?raw=true)
 
 # Penjelasan code program
 
