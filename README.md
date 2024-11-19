@@ -57,3 +57,7 @@ Setelah pengguna selesai memasukkan data, program mencetak header tabel yang men
 Program ini melakukan iterasi melalui setiap dictionary dalam list data_nilai dan mencetak data siswa dalam format tabel. Format spesifikasi digunakan untuk memastikan bahwa setiap kolom memiliki lebar yang konsisten:
 
 <20, <15, <10, dan <15.2f digunakan untuk mengatur lebar kolom dan format angka desimal.
+
+# berikut code programnya
+
+![foto](
