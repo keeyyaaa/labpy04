@@ -60,10 +60,10 @@ Program ini melakukan iterasi melalui setiap dictionary dalam list data_nilai da
 
 # berikut code programnya
 
-![foto](
+![foto](https://github.com/keeyyaaa/labpy04/blob/main/code%20program.png?raw=true)
 
-![foto](
+![foto](https://github.com/keeyyaaa/labpy04/blob/main/code%20program2.png?raw=true)
 
 # berikut hasil code programnya
-![foto](
+![foto](https://github.com/keeyyaaa/labpy04/blob/main/hasil%20code%20program.png?raw=true)
 
